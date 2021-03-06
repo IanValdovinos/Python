@@ -1,0 +1,2 @@
+python FinStat.py
+exit
